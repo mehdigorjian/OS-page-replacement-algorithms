@@ -8,5 +8,5 @@ Under the reference string, the program displays 25 columns of 8 items each. The
 The reference string consist of 24 page numbers space delimited as follows: 0 2 1 3 5 4 6 3 7 4 7 3 3 5 5 3 1 1 1 7 2 3 4 1
 
 
-`COMPILATION: gcc page_replace_algo.cpp -o page_replace_algo -lstdc++` \\
+`COMPILATION: gcc page_replace_algo.cpp -o page_replace_algo -lstdc++` \
 `        RUN: ./page_replace_algo`
