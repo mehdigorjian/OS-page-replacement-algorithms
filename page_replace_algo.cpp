@@ -273,11 +273,3 @@ int main()
 // number of pages: 24
 // pages: 2 1 3 5 4 6 3 7 4 7 3 3 5 5 3 1 1 1 7 1 3 4 1 2
 // or a *.txt file with the pages numbers with space
-
-// REFERENCES
-// I got the idea from the references [1] and [2] but the code was rewroten by 
-// myself and also adding the output printing.
-
-// [1] https://github.com/Ghamry0x2/Page-Replacement-Algorithms/blob/master/src/
-//     PageReplacementAlgorithms/PageReplacementAlgorithms.java
-// [2] https://www.geeksforgeeks.org/second-chance-or-clock-page-replacement-policy/
