@@ -1,5 +1,5 @@
-// COMPILATION: gcc gorjianm_exam1.cpp -o gorjianm_exam1.exe -lstdc++
-//         RUN: ./gorjianm_exam1.exe
+// COMPILATION: gcc page_replace_algo.cpp -o page_replace_algo -lstdc++
+//         RUN: ./page_replace_algo
 #include <iostream>
 #include <fstream>
 #include <queue>
