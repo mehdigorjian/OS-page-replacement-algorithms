@@ -12,4 +12,4 @@ The reference string consist of 24 page numbers space delimited as follows: 0 2 
 `        RUN: ./page_replace_algo`
 
 ## Output Sample:
-
+[!alt text](/blob/master/img/fifo.png)
