@@ -12,7 +12,7 @@ The reference string consist of 24 page numbers space delimited as follows: 0 2 
 `        RUN: ./page_replace_algo`
 
 ## Output Sample:
-`FIFO Page Replacement Algorithm`
+`FIFO Page Replacement Algorithm` \
 `-------------------------------------------------` \
 `  2 1 3 5 4 6 6 7 7 7 3 3 5 5 5 1 1 1 1 1 1 4 4 2` \
 `    2 1 3 5 4 4 6 6 6 7 7 3 3 3 5 5 5 5 5 5 1 1 4` \
