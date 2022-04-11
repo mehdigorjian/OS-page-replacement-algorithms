@@ -13,3 +13,5 @@ The reference string consist of 24 page numbers space delimited as follows: 0 2 
 
 ## Output Sample:
 <img src="https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/fifo.png" width="300"/>
+<img src="https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/lru.png" width="300"/>
+<img src="https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/sc.png" width="300"/>
