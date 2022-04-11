@@ -11,6 +11,7 @@ The reference string consist of 24 page numbers space delimited as follows: 0 2 
 `COMPILATION: gcc page_replace_algo.cpp -o page_replace_algo -lstdc++` \
 `        RUN: ./page_replace_algo`
 
+
 ## Output Sample:
 <p align="center">
 <img src="https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/fifo.png" width="300"/>
