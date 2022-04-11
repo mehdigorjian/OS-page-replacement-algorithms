@@ -12,5 +12,4 @@ The reference string consist of 24 page numbers space delimited as follows: 0 2 
 `        RUN: ./page_replace_algo`
 
 ## Output Sample:
-![Alt text](https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/fifo.png)
-<img src="https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/fifo.png" width="100"/>
+<img src="https://github.com/mehdigorjian/OS-page-replacement-algorithms/blob/master/img/fifo.png" width="300"/>
